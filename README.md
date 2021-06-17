@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on hydrological forecasts
-- 🌱 I’m currently learning Python, SQL, data visualisation
+- 🔭 I’m currently working on hydrological forecasts and remote sensing
+- 🌱 I’m learning Python, SQL, data visualisation and GEE
 - 👯 I’m looking to collaborate on data science and related topics
 - 🤔 I’m looking for help with Google Engine Projects
 
